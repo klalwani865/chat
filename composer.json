@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "evenement/evenement": "^3.0",
+        "cboden/ratchet": "^0.4.4",
+        "guzzlehttp/psr7": "^2.6",
+        "psr/http-message": "^2.0",
+        "ralouphie/getallheaders": "^3.0",
+        "ratchet/rfc6455": "^0.3.1",
+        "sabre/event": "^5.1"
+    }
+}
